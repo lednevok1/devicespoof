@@ -1,0 +1,9 @@
+dev.lednevok1.devicespoof.app-jetified-logsender-2.7.1-beta-debug-0 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c73258204488152b92ebb85b36cdb3af/transformed/jetified-logsender-2.7.1-beta-debug/res
+dev.lednevok1.devicespoof.app-pngs-1 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/generated/res/pngs/debug
+dev.lednevok1.devicespoof.app-resValues-2 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/generated/res/resValues/debug
+dev.lednevok1.devicespoof.app-rs-3 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/generated/res/rs/debug
+dev.lednevok1.devicespoof.app-mergeDebugResources-4 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+dev.lednevok1.devicespoof.app-mergeDebugResources-5 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+dev.lednevok1.devicespoof.app-merged_res-6 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/build/intermediates/merged_res/debug
+dev.lednevok1.devicespoof.app-debug-7 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/src/debug/res
+dev.lednevok1.devicespoof.app-main-8 /storage/emulated/0/AndroidIDEProjects/devicespoof/app/src/main/res

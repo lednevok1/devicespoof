@@ -1,0 +1,78 @@
+{
+    "logs": [
+        {
+            "outputFile": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.6/dev.lednevok1.devicespoof.app-mergeDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/devicespoof/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,2",
+                        "startColumns": "-1,1",
+                        "startOffsets": "-1,62",
+                        "endColumns": "-1,86",
+                        "endOffsets": "-1,147"
+                    },
+                    "to": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,293",
+                        "endColumns": "51,89",
+                        "endOffsets": "149,378"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c73258204488152b92ebb85b36cdb3af/transformed/jetified-logsender-2.7.1-beta-debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,154,235",
+                        "endColumns": "46,80,57",
+                        "endOffsets": "97,230,288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "dev.lednevok1.devicespoof.app-mergeDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/devicespoof/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,2",
+                        "startColumns": "-1,1",
+                        "startOffsets": "-1,62",
+                        "endColumns": "-1,71",
+                        "endOffsets": "-1,132"
+                    },
+                    "to": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,293",
+                        "endColumns": "51,74",
+                        "endOffsets": "149,363"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c73258204488152b92ebb85b36cdb3af/transformed/jetified-logsender-2.7.1-beta-debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,154,235",
+                        "endColumns": "46,80,57",
+                        "endOffsets": "97,230,288"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="logsender_enabled">true</bool>
+    <string name="app_name">Device Spoofer</string>
+    <string name="msg_bind_service_failed">Failed to bind to AndroidIDE</string>
+    <string name="notification_action_exit">Exit</string>
+    <string name="xposed_description">Simple device model spoofer</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Device Spoofer</string>
+	<string name="xposed_description">Simple device model spoofer</string>
+</resources>

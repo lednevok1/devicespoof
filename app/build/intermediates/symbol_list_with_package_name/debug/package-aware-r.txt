@@ -1,0 +1,7 @@
+dev.lednevok1.devicespoof
+bool logsender_enabled
+drawable ic_androidide_log
+string app_name
+string msg_bind_service_failed
+string notification_action_exit
+string xposed_description

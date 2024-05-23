@@ -1,4 +1,4 @@
-# device spoofer 10/100 sigma skibidi 
+# device spoofer 10/100 sigma skibidi lsposed xposed idk idc module
 spoofs device model for selected apps (tested w/ lsposed, minecraft pe lol)
 btw it reads fake model from file (storage/emulated/0/documents/device.txt) 
 
